@@ -1,0 +1,9 @@
+# sbt
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Data directory
+data/
